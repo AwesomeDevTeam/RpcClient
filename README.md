@@ -1,6 +1,6 @@
 # RpcClient
 
-RCP client with pluggable transport and protocol layers
+RPC client with pluggable transport and protocol layers
 
 # Install
 
