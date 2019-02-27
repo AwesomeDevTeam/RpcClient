@@ -1,6 +1,6 @@
 {
-  "name": "rpc-client",
-  "version": "0.0.1-SNAPSHOT.2",
+  "name": "@adt/rpc-client",
+  "version": "0.0.1-SNAPSHOT.3",
   "description": "RPC client with pluggable transport and protocol layers",
   "main": "dist/RpcClient.cjs.js",
   "module": "dist/RpcClient.esm.js",
